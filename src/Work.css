@@ -1,0 +1,18 @@
+.updatedWork {
+  margin: 2rem;
+  color: black;
+  background-color: rgb(244, 243, 241);
+  max-width: fit-content;
+  min-width: 320px;
+  border-radius: 9px;
+  padding: 12px;
+  font-weight: bold;
+  size: 3rem;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  max-width: fit-content;
+  min-width: 320px;
+}
